@@ -19,6 +19,7 @@ public class Game {
         Game game = new Game();
         game.playerSetUp();
         game.townGate();
+        //Test this game before add to github
 
 
     }
